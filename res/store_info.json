@@ -1,0 +1,82 @@
+{
+    "status_code": 200,
+    "status_message": "",
+    "store_id": "4002",
+    "store_name": "고망고",
+    "week_biz_time": "10002200",
+    "sat_biz_time": "10002200",
+    "sun_biz_time": "10002200",
+    "break_time": "",
+    "no_biz_day": "",
+    "tel_no": "0507-1392-0263",
+    "phone_no": "000000000",
+    "email_addr": null,
+    "cat_id": "321",
+    "store_intro": "안양1번가 아이스크림 맛집, 고망고입니다.\r\n\r\n많이 이용해 주세요.",
+    "store_image_list": [
+        "http://43.201.180.2/resources//update/release/2/5/store/고망고-내부.jpg"
+    ],
+    "category_list": [
+        {
+            "id": "320",
+            "name": "음식점"
+        },
+        {
+            "id": "321",
+            "name": "카페"
+        },
+        {
+            "id": "322",
+            "name": "주점"
+        },
+        {
+            "id": "323",
+            "name": "노래방"
+        },
+        {
+            "id": "324",
+            "name": "스포츠"
+        },
+        {
+            "id": "325",
+            "name": "편의점"
+        },
+        {
+            "id": "326",
+            "name": "마트"
+        },
+        {
+            "id": "327",
+            "name": "뷰티"
+        },
+        {
+            "id": "328",
+            "name": "헤어숍"
+        },
+        {
+            "id": "329",
+            "name": "의류잡화"
+        },
+        {
+            "id": "330",
+            "name": "병원"
+        },
+        {
+            "id": "331",
+            "name": "약국"
+        },
+        {
+            "id": "332",
+            "name": "은행"
+        },
+        {
+            "id": "333",
+            "name": "숙박"
+        },
+        {
+            "id": "334",
+            "name": "기타"
+        }
+    ],
+    "menu_list": []
+}
